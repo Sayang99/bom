@@ -232,8 +232,6 @@ echo "Berapa Banyak Panggilan?\n";
 }
 
 clear
-echo
-echo
 echo $me"                     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶"
 echo $me"                 ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
 echo $me"              ¶¶¶¶                        ¶¶¶¶"
